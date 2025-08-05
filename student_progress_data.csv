@@ -1,0 +1,4 @@
+Student_ID,Week,Score,Status,Recommendation_Action
+S001,1,65,Red,Attend tutoring and complete missed modules.
+S001,2,70,Amber,Continue tutoring; begin extra practice.
+S001,3,80,Green,Maintain study schedule and help peers.
